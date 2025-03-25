@@ -1,8 +1,6 @@
 # KoreanMinimalPairs Dataset
 * Paper: [Evaluating GPT’s Ability to Understand Syntactic Minimal Pairs in Korean](https://doi.org/10.29403/LI.28.3.5)
 * Authors: [Jina Song](https://hongik.ac.kr), [Eunbi Cho](https://korea.ac.kr), [Sanghoun Song](http://corpus.mireene.com/)
-* Contact: fillu1004@korea.ac.kr
-* [GitHub Repository](https://github.com/EunB2/Evaluating-GPTs-Ability-to-Understand-Syntactic-Minimal-Pairs-in-Korean)
 
 This dataset, **KoreanMinimalPairs**, contains Korean syntactic minimal pairs used to evaluate the syntactic competence of large language models (LLMs), including GPT-3.5, GPT-4, and GPT-4o.
 
