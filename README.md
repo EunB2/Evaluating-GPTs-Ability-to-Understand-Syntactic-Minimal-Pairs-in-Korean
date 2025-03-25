@@ -66,17 +66,17 @@ This dataset consists of three subsets based on different experimental tasks:
 | 2  | 영이가 예쁘지 않고 있다. | 비문 |
 
 ## Citation
-@article{song2024evaluating, 
-author = {Jina Song and Eunbi Cho and Sanghoun Song}, 
-title = {Evaluating GPT’s Ability to Understand Syntactic Minimal Pairs in Korean}, 
-journal = {Language and Information}, 
-volume = {28}, 
-number = {3}, 
-pages = {83-109}, 
-year = {2024}, 
-publisher = {The Korean Society for Language and Information}, 
-doi = {10.29403/LI.28.3.5} }
-
+@article{song2024evaluating,
+  author    = {Jina Song and Eunbi Cho and Sanghoun Song},
+  title     = {Evaluating GPT’s Ability to Understand Syntactic Minimal Pairs in Korean},
+  journal   = {Language and Information},
+  volume    = {28},
+  number    = {3},
+  pages     = {83-109},
+  year      = {2024},
+  publisher = {The Korean Society for Language and Information},
+  doi       = {10.29403/LI.28.3.5}
+}
 
 ## License
 TBD 
