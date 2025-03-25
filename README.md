@@ -67,6 +67,7 @@ This dataset consists of three subsets based on different experimental tasks:
 
 ## Citation
 ```bibtex
+
 @article{song2024evaluating,
   author    = {Jina Song and Eunbi Cho and Sanghoun Song},
   title     = {Evaluating GPT’s Ability to Understand Syntactic Minimal Pairs in Korean},
