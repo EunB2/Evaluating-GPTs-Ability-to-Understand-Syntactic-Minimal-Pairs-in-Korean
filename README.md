@@ -1,6 +1,6 @@
 # Kontrast Dataset
 * Paper: [Evaluating GPT’s Ability to Understand Syntactic Minimal Pairs in Korean](https://doi.org/10.29403/LI.28.3.5)
-* Authors: [Jina Song](https://hongik.ac.kr), [Eunbi Cho](https://korea.ac.kr), [Sanghoun Song](http://corpus.mireene.com/)
+* Authors: [Jina Song](https://english.hongik.ac.kr/english/0201.do?mode=view&deptCd=AAD140&S1=2024&S2=10024), [Eunbi Cho](https://github.com/EunB2), [Sanghoun Song](http://corpus.mireene.com/)
 * [HuggingFace](https://huggingface.co/datasets/EunB2/Kontrast-ForcedChoice_160pairs)🤗
 
 This dataset, **Kontrast**, contains Korean syntactic minimal pairs used to evaluate the syntactic competence of large language models (LLMs), including GPT-3.5, GPT-4, and GPT-4o.
