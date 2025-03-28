@@ -74,8 +74,7 @@ This dataset consists of three subsets based on different experimental tasks:
   number    = {3},
   pages     = {83-109},
   year      = {2024},
-  publisher = {The Korean Society for Language and Information},
-  doi       = {10.29403/LI.28.3.5}
+  publisher = {The Korean Society for Language and Information}
 }
 ```
 
